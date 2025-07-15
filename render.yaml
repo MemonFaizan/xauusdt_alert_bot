@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: worker
     name: gold-sniper-alert-bot
     env: python
     plan: free
